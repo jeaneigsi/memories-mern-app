@@ -37,9 +37,11 @@ pour les problème de pendance utiliser 'npm install @material-ui/core --legacy-
 2. créer composant App avec "rafce"
 3. creer chaque composant avec son fichier style dans le src
 4. combinereducer en index pour exporter les reducer
-5. 
+5. svg background
 
 ### configuration du modele mongo
 1. cluster et bloc de connection 
+
+### server>routes>controller>api
 
 # 41:10
